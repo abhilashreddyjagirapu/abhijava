@@ -12,6 +12,7 @@ public class BubbleSort {
 		{
 			arr[i]=sc.nextInt();
 		}
+System.out.println("hello");
 		System.out.println("Array Before Sort:");
 		for(int i=0;i<n;i++)
 		{
