@@ -1,7 +1,6 @@
 package Functions;
 import java.util.*;
-import java.util.Map.Entry;
-
+import java.util.Map.Entry
 public class DigitCount {
 public static void main(String[] args) {
 		
